@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    public
     long dateInMillis = System.currentTimeMillis();
     String format = "yyyy-MM-dd HH:mm:ss";
     final SimpleDateFormat sdf = new SimpleDateFormat(format);
