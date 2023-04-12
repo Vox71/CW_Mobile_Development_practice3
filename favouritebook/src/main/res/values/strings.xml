@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FavouriteBook</string>
+    <string name="app_name">favouritebook</string>
     <string name="favouriteBook">Любимая книга разработчика\: Люди как боги</string>
     <string name="InputBook">Введите название вашей любимой книги</string>
     <string name="Send">Отправка</string>
