@@ -15,4 +15,7 @@ dependencyResolutionManagement {
 rootProject.name = "Lesson3"
 include ':app'
 include ':intentapp'
-include ':mireaproject'
+include ':sharer'
+include ':favouritebook'
+include ':simplefragmentapp'
+include ':systemintentsapp'
